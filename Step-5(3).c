@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include<stdio.h>
+
+/*#include<stdio.h>
 
 float Max(float n[], int size) {
 	float max = 0;
@@ -44,4 +45,4 @@ int main(void) {
 	printf("%f", Average(arr, n));
 
 	return 0;
-}
+} No.1546*/

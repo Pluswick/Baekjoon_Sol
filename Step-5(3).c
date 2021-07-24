@@ -42,7 +42,7 @@ int main(void) {
 	float max;
 	max = Max(arr, n);
 	Forgery(arr, n, max);
-	printf("%f", Average(arr, n));
+	printf("%.2f", Average(arr, n));
 
 	return 0;
 } No.1546*/
